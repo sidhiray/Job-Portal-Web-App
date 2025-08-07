@@ -49,3 +49,24 @@ webapp/
 ├── resources/
 │   └── css/
 │       └── style.css
+
+
+
+How to Run Locally
+1. Clone the repository
+git clone https://github.com/sidhiray/Job-Portal-Web-App.git
+
+2. Import in Eclipse or IntelliJ
+  Import as a Maven Project
+  Use Tomcat Server (version 10+)
+  Make sure JSP support is enabled
+
+3. Add Dependencies
+  Tomcat-Jasper
+  Jakarta Standard Tag Library API
+  Jakarta Standard Tag Library Implementation
+
+4. Build & Run
+    Right-click → Run on Server
+    Access the app in browser:
+    http://localhost:8080/Job-Portal-Web-App/
