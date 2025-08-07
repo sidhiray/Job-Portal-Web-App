@@ -52,7 +52,7 @@ webapp/
 
 
 
-How to Run Locally
+## ⚙️ How to Run Locally
 1. Clone the repository
 git clone https://github.com/sidhiray/Job-Portal-Web-App.git
 
